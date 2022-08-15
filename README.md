@@ -3,4 +3,4 @@ Your task is to help John from STA IT services to create a linear regression mod
 Understand the data
 Transform categorical variables to the numerical variables
 Apply linear regression to predict the CTC
-Evaluate the results of the analysis
+Evaluate the results of the analysis.
